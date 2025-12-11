@@ -7,5 +7,10 @@ index.html
 <body>
     <h1>Hello, I’m Lin Hai!</h1>
     <p>Welcome to my GitHub personal website.</p>
+
+    <p>
+       <a href="Property of scheme.pdf" target="_blank">Read my book (PDF)</a>
+    </p>
+
 </body>
 </html>
